@@ -6,9 +6,9 @@ Meu encontro com a programação foi a partir dos meus **13 anos,** fazendo bots
 
 Com um tempo eu passei a estudar com  resiliência a parte debaixo dos panos o Back-end e estruturas de dados com foco na linguaguem **☕ Java**.
 
-**🔧Stacks**
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
-<h1>Back-End</h1>
+<h2>Back-End</h2>
 
 ###
 
@@ -20,12 +20,22 @@ Com um tempo eu passei a estudar com  resiliência a parte debaixo dos panos o B
 
 ###
 
-<h1>Dev Tools</h1>
+<h2>Dev Tools</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Minhas estatisticas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gilvandojrdev&locale=en&mode=daily&theme=white&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
