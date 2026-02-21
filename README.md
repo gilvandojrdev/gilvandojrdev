@@ -8,8 +8,6 @@ Com um tempo eu passei a estudar com  resiliência a parte debaixo dos panos o B
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
-<h2>Back-End</h2>
-
 ###
 
 <div align="left">
@@ -19,8 +17,6 @@ Com um tempo eu passei a estudar com  resiliência a parte debaixo dos panos o B
 </div>
 
 ###
-
-<h2>Dev Tools</h2>
 
 ###
 
@@ -32,10 +28,6 @@ Com um tempo eu passei a estudar com  resiliência a parte debaixo dos panos o B
 
 <h3 align="left">🔥   Minhas estatisticas:</h3>
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gilvandojrdev&locale=en&mode=daily&theme=white&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
