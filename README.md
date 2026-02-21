@@ -19,3 +19,13 @@ Com um tempo eu passei a estudar com  resiliência a parte debaixo dos panos o B
 </div>
 
 ###
+
+<h1 align="center">Dev Tools</h1>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
