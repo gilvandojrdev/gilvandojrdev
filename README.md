@@ -5,3 +5,17 @@
 Meu encontro com a programação foi a partir dos meus **13 anos,** fazendo bots para Discord para pessoas. Aos 15 anos, migrei para desenvolvimento de servidores de MTA na parte Front e End e um pouco do Back-End. Hoje em dia, ainda faço serviços para clientes envolvendo a criação de interfaces feitas pelo **Figma**.
 
 Com um tempo eu passei a estudar com  resiliência a parte debaixo dos panos o Back-end e estruturas de dados com foco na linguaguem **☕ Java**.
+
+**🔧Stacks**
+
+<h1 align="center">Back-End</h1>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
